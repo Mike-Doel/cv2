@@ -1,0 +1,60 @@
+/********************TAG Selectors***********************/
+body {
+  background-color: blue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+  background-color: #D0C9C0;
+  border-color: #5F7161;
+}
+
+h1 {
+  color: #5F7161;
+  font-family: "calibri";
+}
+
+h3 {
+  color: #6D8B74;
+  font-family: "calibri";
+}
+
+p {
+  font-family: "calibri";
+}
+
+table {
+  font-family: "calibri";
+}
+
+ul {
+  font-family: "calibri";
+}
+
+a {
+  font-family: "calibri";
+}
+
+
+img:hover
+{
+  background-color: gold;}
+
+/*******************CLASS SELECTORS**************/
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {border-radius: 100%;}
+/*******************ID SELECTORS**************/
+#heading {
+color: blue;
+
+}
